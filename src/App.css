@@ -7,6 +7,18 @@
   font-family: Arial, sans-serif;
   align-items: stretch; 
 }
+:root {
+  --background: #f9fafb;
+  --card: #ffffff;
+  --foreground: #111827;
+  --muted-foreground: #6b7280;
+  --primary: #3b82f6;
+  --primary-foreground: #ffffff;
+  --input: #d1d5db;
+  --ring: #3b82f6;
+  --primary-rgb: 59,130,246; /* para rgba */
+}
+
 .Body {
   display: flex;
   flex-direction: column;
